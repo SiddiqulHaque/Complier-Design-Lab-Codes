@@ -1,0 +1,6 @@
+S a S
+S a X
+X b S 
+X a Y 
+Y b S
+S a
